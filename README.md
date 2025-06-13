@@ -1,8 +1,4 @@
 -👋 Hi, I’m @VarshaGnanasekar
-- 👀 I’m interested in problem solving
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 - 😄 Pronouns:She/her
 
 <!---
