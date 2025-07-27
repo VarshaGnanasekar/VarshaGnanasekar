@@ -1,7 +1,32 @@
--👋 Hi, I’m @VarshaGnanasekar
-- 😄 Pronouns:She/her
+<img width="137" height="444" alt="image" src="https://github.com/user-attachments/assets/198bf3e1-546c-480b-8a44-3f861f64a939" /># 👋 Hi, I'm Varsha Gnanasekar
 
-<!---
-VarshaGnanasekar/VarshaGnanasekar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 😄 Pronouns: She/Her
+
+---
+
+## 🌟 About Me
+
+- 🎓 **Student of Computer Science and Engineering at SSN College,Chennai**
+- 👩‍💻 Passionate about Web dev,AI/ML**
+- 📫 How to reach me: [varshasekar0706@gmail.com] | [LinkedIn](https://linkedin.com/in/varsha-gnanasekar-237244305)
+
+
+---
+
+## 🛠️ Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+<!-- Add more badges for your technologies & tools -->
+
+---
+
+## 📈 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=VarshaGnanasekar&show_icons=true&hide_title=true)
+
+---
+<!--
+✨ This README is customized with ❤️.
+-->
