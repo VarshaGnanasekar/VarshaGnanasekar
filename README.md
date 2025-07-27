@@ -1,4 +1,4 @@
-<img width="137" height="444" alt="image" src="https://github.com/user-attachments/assets/198bf3e1-546c-480b-8a44-3f861f64a939" /># 👋 Hi, I'm Varsha Gnanasekar
+# 👋 Hi, I'm Varsha Gnanasekar
 
 ### 😄 Pronouns: She/Her
 
